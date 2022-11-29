@@ -1,5 +1,5 @@
 # [Codecov](https://codecov.io) Python Example
-[![codecov](https://codecov.io/github/codecovtom/example-python/branch/main/graph/badge.svg)](https://app.codecov.io/github/codecov/example-python)
+[![codecov](https://codecov.io/github/codecovtom/example-python/branch/main/graph/badge.svg)](https://app.codecov.io/github/codecovtom/example-python)
 
 This example repository shows how Codecov can be integrated with a simple python project. It uses **GitHub Actions** as the CI/CD provider and **coverage** as the coverage provider.
 
